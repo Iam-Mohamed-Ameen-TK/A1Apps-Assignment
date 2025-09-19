@@ -31,6 +31,11 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
+		C359DC692E7E100B00410FDA /* Preview Content */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +57,7 @@
 				C359DC5B2E7E0B7800410FDA /* Models */,
 				C359DC4A2E7E09C700410FDA /* A1Apps Assignment */,
 				C359DC492E7E09C700410FDA /* Products */,
+				C359DC692E7E100B00410FDA /* Preview Content */,
 			);
 			sourceTree = "<group>";
 		};
@@ -83,6 +89,7 @@
 				C359DC5B2E7E0B7800410FDA /* Models */,
 				C359DC5C2E7E0B8100410FDA /* ViewModels */,
 				C359DC5D2E7E0B8E00410FDA /* Views */,
+				C359DC692E7E100B00410FDA /* Preview Content */,
 			);
 			name = "A1Apps Assignment";
 			packageProductDependencies = (
